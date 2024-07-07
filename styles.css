@@ -1,0 +1,46 @@
+
+h1{
+    color: blue;
+    background-color: blanchedalmond;
+    text-align: center;
+    font-size: 32;
+}
+
+.description{
+    color: brown;
+    font: Arial;
+}
+
+.notes {
+    list-style:lower-greek;
+}
+
+.button{
+    font-size: large;
+    font-family: serif;
+    font-weight: bold;
+}
+
+.button.nasty-button{
+    background-color: yellowgreen;
+}
+
+.button.good-button{
+    color: white;
+    background-color: blueviolet;
+}
+
+.warning-text,
+.alert-text{
+    color: red;
+    font: Arial;
+}
+
+.alert-text{
+    font-weight: bold;
+}
+
+
+.warning-text{
+    font-weight: bolder;
+}
